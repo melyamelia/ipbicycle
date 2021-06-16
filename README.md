@@ -44,6 +44,9 @@ Halaman data penanggung jawab jika login sebagai kepala cabang
 Halaman tambah data PJ
 ![implementasi data pj](https://user-images.githubusercontent.com/85139125/122192286-b8d46480-cebd-11eb-8b06-87bca67a5037.jpeg)
 
+Halaman tambah transaksi
+![tambah transaksi](https://user-images.githubusercontent.com/85139125/122196031-128a5e00-cec1-11eb-80bb-469b9e183771.jpeg)
+
 Halaman data lokasi jika login sebagai kepala cabang
 ![WhatsApp Image 2021-06-16 at 16 15 25 (1)](https://user-images.githubusercontent.com/85139125/122192827-326c5280-cebe-11eb-9e4e-f14cac878d5d.jpeg)
 
@@ -52,6 +55,12 @@ Halaman tambah lokasi
 
 Halaman dashboard jika login sebagai PJ
 ![login sebagai pj](https://user-images.githubusercontent.com/85139125/122194087-4ebcbf00-cebf-11eb-9a5a-89860766b9e7.jpeg)
+
+Halaman data sepeda jika login sebagai PJ
+![data sepeda](https://user-images.githubusercontent.com/85139125/122195222-5cbf0f80-cec0-11eb-9b7a-2c59679d0332.jpeg)
+
+Halaman tambah data sepeda
+![tambah sepeda](https://user-images.githubusercontent.com/85139125/122195474-98f27000-cec0-11eb-9432-9f924d5f81fa.jpeg)
 
 
 
