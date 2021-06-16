@@ -45,6 +45,9 @@ Halaman data penanggung jawab jika login sebagai kepala cabang
 Halaman tambah data PJ
 ![implementasi data pj](https://user-images.githubusercontent.com/85139125/122192286-b8d46480-cebd-11eb-8b06-87bca67a5037.jpeg)
 
+Halaman data lokasi jika login sebagai kepala cabang
+![WhatsApp Image 2021-06-16 at 16 15 25](https://user-images.githubusercontent.com/85139125/122192799-2da79e80-cebe-11eb-9ec5-486cd9d8a5c5.jpeg)
+
 
 
 
