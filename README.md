@@ -41,20 +41,12 @@ Halaman Dashboard jika login sebagai kepala cabang
 Halaman data penanggung jawab jika login sebagai kepala cabang
 ![implementasi dashboard penanggung jawab](https://user-images.githubusercontent.com/85139125/122191820-42cffd80-cebd-11eb-8ae5-39bcd57fb562.jpeg)
 
-Halaman tambah data PJ
-![implementasi data pj](https://user-images.githubusercontent.com/85139125/122192286-b8d46480-cebd-11eb-8b06-87bca67a5037.jpeg)
-
 Halaman data lokasi jika login sebagai kepala cabang
 ![WhatsApp Image 2021-06-16 at 16 15 25 (1)](https://user-images.githubusercontent.com/85139125/122192827-326c5280-cebe-11eb-9e4e-f14cac878d5d.jpeg)
-
-Halaman tambah lokasi
-![WhatsApp Image 2021-06-16 at 16 15 25](https://user-images.githubusercontent.com/85139125/122192799-2da79e80-cebe-11eb-9ec5-486cd9d8a5c5.jpeg)
 
 Halaman dashboard jika login sebagai PJ
 ![dashboard pj ini](https://user-images.githubusercontent.com/85139125/122196463-757bf500-cec1-11eb-9241-07250346f5f5.jpeg)
 
-Halaman tambah transaksi
-![tambah transaksi](https://user-images.githubusercontent.com/85139125/122196031-128a5e00-cec1-11eb-80bb-469b9e183771.jpeg)
 
 Halaman cetak bukti transaksi
 ![halaman cetak bukti](https://user-images.githubusercontent.com/85139125/122197388-53cf3d80-cec2-11eb-84d2-51f2b028b911.jpeg)
@@ -68,12 +60,9 @@ Halaman pengembalian sepeda
 Halaman data sepeda
 ![data sepedaa](https://user-images.githubusercontent.com/85139125/122197703-ac063f80-cec2-11eb-826f-4ee20accf2d2.jpeg)
 
-Halaman tambah data sepeda
-![tambah sepeda](https://user-images.githubusercontent.com/85139125/122195474-98f27000-cec0-11eb-9432-9f924d5f81fa.jpeg)
-
 Halaman data mahasiswa 
 
-Halaman tambah data mahasiswa
+Halaman tambah data
 ![tambah mahasiswa](https://user-images.githubusercontent.com/85139125/122197825-c7714a80-cec2-11eb-9fba-7ea527d09530.jpeg)
 
 Halaman edit data
