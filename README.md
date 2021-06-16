@@ -50,6 +50,8 @@ Halaman data lokasi jika login sebagai kepala cabang
 Halaman tambah lokasi
 ![WhatsApp Image 2021-06-16 at 16 15 25](https://user-images.githubusercontent.com/85139125/122192799-2da79e80-cebe-11eb-9ec5-486cd9d8a5c5.jpeg)
 
+Halaman dashboard jika login sebagai PJ
+![login sebagai pj](https://user-images.githubusercontent.com/85139125/122194087-4ebcbf00-cebf-11eb-9a5a-89860766b9e7.jpeg)
 
 
 
