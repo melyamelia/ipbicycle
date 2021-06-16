@@ -33,10 +33,14 @@ Sistem IPBicycle bekerja dengan sistem kepala cabang dan penanggung jawab. Kepal
 # Hasil Impelemntasi
 Halaman Login
 ![implementasi login](https://user-images.githubusercontent.com/85139125/122188761-7b220c80-ceba-11eb-87c6-46b12c325572.jpeg)
+
+
 Halaman Dashboard jika login sebagai kepala cabang
 ![dashboard pj](https://user-images.githubusercontent.com/85139125/122191121-a3ab0600-cebc-11eb-831d-50b56dce1cbc.jpeg)
-Halaman data penanggung jawab jika login sebagai kepala cabang
 
+
+Halaman data penanggung jawab jika login sebagai kepala cabang
+![implementasi dashboard penanggung jawab](https://user-images.githubusercontent.com/85139125/122191820-42cffd80-cebd-11eb-8ae5-39bcd57fb562.jpeg)
 
 
 
