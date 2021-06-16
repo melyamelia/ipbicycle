@@ -38,7 +38,6 @@ Halaman Login
 Halaman Dashboard jika login sebagai kepala cabang
 ![dashboard pj](https://user-images.githubusercontent.com/85139125/122191121-a3ab0600-cebc-11eb-831d-50b56dce1cbc.jpeg)
 
-
 Halaman data penanggung jawab jika login sebagai kepala cabang
 ![implementasi dashboard penanggung jawab](https://user-images.githubusercontent.com/85139125/122191820-42cffd80-cebd-11eb-8ae5-39bcd57fb562.jpeg)
 
@@ -46,7 +45,7 @@ Halaman tambah data PJ
 ![implementasi data pj](https://user-images.githubusercontent.com/85139125/122192286-b8d46480-cebd-11eb-8b06-87bca67a5037.jpeg)
 
 Halaman data lokasi jika login sebagai kepala cabang
-
+![WhatsApp Image 2021-06-16 at 16 15 25 (1)](https://user-images.githubusercontent.com/85139125/122192827-326c5280-cebe-11eb-9e4e-f14cac878d5d.jpeg)
 
 Halaman tambah lokasi
 ![WhatsApp Image 2021-06-16 at 16 15 25](https://user-images.githubusercontent.com/85139125/122192799-2da79e80-cebe-11eb-9ec5-486cd9d8a5c5.jpeg)
