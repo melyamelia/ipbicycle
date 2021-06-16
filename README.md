@@ -26,7 +26,11 @@ yang memiliki banyak kekurangan, seperti kurang efektif dan efisien. Maka dari i
 # Solusi Singkat
 IPBicycle memudahkan pegawai peminjaman sepeda kampus dalam pendataan mahasiswa IPB yang meminjam sepeda. Peminjam pada website ini hanya terbatas untuk mahasiswa IPB. IPBicycle memiliki daftar sepeda milik kampus yang dapat dipinjamkan kepada mahasiswa IPB. Jenis sepeda yang tersedia juga akan tertera di website IPBicycle. Pegawai harus terdaftar sebagai penanggung jawab  untuk masuk ke website IPBicycle dengan dibuatkan akun oleh super admin atau kepala cabang. Setelah login, penanggung jawab dapat mengakses dan menambahkan data mahasiswa, sepeda, dan transaksi peminjaman. Data penanggung jawab hanya bisa diubah oleh kepala cabang. Setelah transaksi selesai, penanggung jawab dapat mencetak bukti transaksi dalam bentuk PDF dan diberikan kepada mahasiswa.  Mahasiswa dapat mengembalikan sepeda yang dia pinjam di lokasi tempat peminjaman.
 # Entity Relationship Diagram
-![entitas revisi](https://user-images.githubusercontent.com/85139125/122149830-e8b44580-ce86-11eb-9101-d063cb4150a9.png)
+![entitas revisi](https://user-images.githubusercontent.com/85139125/122149830-e8b44580-ce86-11eb-9101-d063cb4150a9.png
+# Proses Implementasi
+Sistem IPBicycle bekerja dengan sistem kepala cabang dan penanggung jawab. Kepala cabang memiliki akses untuk data mahasiswa, data transaksi, data lokasi, dan data penanggung jawab. Namun, kepala cabang tidak dapat melakukan input transaksi. Penanggung jawab harus login dengan username dan password yang sudah diinput oleh kepala cabang. Penanggung jawab memiliki akses untuk data mahasiswa, data transaksi, dan data sepeda. Penanggung jawab tidak  memiliki akses untuk data penanggung jawab, baik datanya sendiri maupun penanggung jawab lain. Penanggung jawab dapat melakukan input peminjaman sepeda yang dilakukan mahasiswa di lokasi tempatnya bertugas. Penanggung jawab dapat mengupdate data sepeda, data mahasiswa dan transaksi peminjaman. Setelah penanggung jawab berhasil login, akan terdapat menu transaksi, data mahasiswa, data penanggung jawab, dan logout. Penanggung jawab dapat mencetak bukti transaksi untuk selanjutnya diberikan kepada mahasiswa. Penanggung jawab juga dapat melakukan pengembalian yang dilakukan mahasiswa di lokasi dia bekerja.
+# Hasil Impelemntasi
+Halaman Login
 
 
 
