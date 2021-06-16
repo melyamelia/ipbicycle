@@ -42,6 +42,9 @@ Halaman Dashboard jika login sebagai kepala cabang
 Halaman data penanggung jawab jika login sebagai kepala cabang
 ![implementasi dashboard penanggung jawab](https://user-images.githubusercontent.com/85139125/122191820-42cffd80-cebd-11eb-8ae5-39bcd57fb562.jpeg)
 
+Halaman tambah data PJ
+![implementasi data pj](https://user-images.githubusercontent.com/85139125/122192286-b8d46480-cebd-11eb-8b06-87bca67a5037.jpeg)
+
 
 
 
