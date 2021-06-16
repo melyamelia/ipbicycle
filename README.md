@@ -66,13 +66,18 @@ Halaman pengembalian sepeda
 ![pengembalian](https://user-images.githubusercontent.com/85139125/122197481-6d708500-cec2-11eb-90d6-c56dd250a4ae.jpeg)
 
 Halaman data sepeda
+![data sepedaa](https://user-images.githubusercontent.com/85139125/122197703-ac063f80-cec2-11eb-826f-4ee20accf2d2.jpeg)
 
 Halaman tambah data sepeda
 ![tambah sepeda](https://user-images.githubusercontent.com/85139125/122195474-98f27000-cec0-11eb-9432-9f924d5f81fa.jpeg)
 
-Halaman data mahasiswa jika login sebagai PJ
+Halaman data mahasiswa 
 
 Halaman tambah data mahasiswa
+![tambah mahasiswa](https://user-images.githubusercontent.com/85139125/122197825-c7714a80-cec2-11eb-9fba-7ea527d09530.jpeg)
+
+Halaman edit data
+![halaman edit](https://user-images.githubusercontent.com/85139125/122197852-cdffc200-cec2-11eb-86f7-24f3dff9027d.jpeg)
 
 
 
