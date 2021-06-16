@@ -30,7 +30,7 @@ IPBicycle memudahkan pegawai peminjaman sepeda kampus dalam pendataan mahasiswa 
 ![entitas revisi](https://user-images.githubusercontent.com/85139125/122188580-49a94100-ceba-11eb-8fc9-7a2e780bbcbd.png)
 # Proses Implementasi
 Sistem IPBicycle bekerja dengan sistem kepala cabang dan penanggung jawab. Kepala cabang memiliki akses untuk data mahasiswa, data transaksi, data lokasi, dan data penanggung jawab. Namun, kepala cabang tidak dapat melakukan input transaksi. Penanggung jawab harus login dengan username dan password yang sudah diinput oleh kepala cabang. Penanggung jawab memiliki akses untuk data mahasiswa, data transaksi, dan data sepeda. Penanggung jawab tidak  memiliki akses untuk data penanggung jawab, baik datanya sendiri maupun penanggung jawab lain. Penanggung jawab dapat melakukan input peminjaman sepeda yang dilakukan mahasiswa di lokasi tempatnya bertugas. Penanggung jawab dapat mengupdate data sepeda, data mahasiswa dan transaksi peminjaman. Setelah penanggung jawab berhasil login, akan terdapat menu transaksi, data mahasiswa, data penanggung jawab, dan logout. Penanggung jawab dapat mencetak bukti transaksi untuk selanjutnya diberikan kepada mahasiswa. Penanggung jawab juga dapat melakukan pengembalian yang dilakukan mahasiswa di lokasi dia bekerja.
-# Hasil Impelemntasi
+# Hasil Implemntasi
 Halaman Login
 ![implementasi login](https://user-images.githubusercontent.com/85139125/122188761-7b220c80-ceba-11eb-87c6-46b12c325572.jpeg)
 
