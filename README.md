@@ -25,6 +25,8 @@ yang memiliki banyak kekurangan, seperti kurang efektif dan efisien. Maka dari i
 7. Software yang digunakan adalah xampp versi 5.6
 # Solusi Singkat
 IPBicycle memudahkan pegawai peminjaman sepeda kampus dalam pendataan mahasiswa IPB yang meminjam sepeda. Peminjam pada website ini hanya terbatas untuk mahasiswa IPB. IPBicycle memiliki daftar sepeda milik kampus yang dapat dipinjamkan kepada mahasiswa IPB. Jenis sepeda yang tersedia juga akan tertera di website IPBicycle. Pegawai harus terdaftar sebagai penanggung jawab  untuk masuk ke website IPBicycle dengan dibuatkan akun oleh super admin atau kepala cabang. Setelah login, penanggung jawab dapat mengakses dan menambahkan data mahasiswa, sepeda, dan transaksi peminjaman. Data penanggung jawab hanya bisa diubah oleh kepala cabang. Setelah transaksi selesai, penanggung jawab dapat mencetak bukti transaksi dalam bentuk PDF dan diberikan kepada mahasiswa.  Mahasiswa dapat mengembalikan sepeda yang dia pinjam di lokasi tempat peminjaman.
+# Entity Relationship Diagram
+![entitas](https://user-images.githubusercontent.com/85139125/122142586-ff07d480-ce79-11eb-8873-2d2e022a7b15.png)
 
 
 
