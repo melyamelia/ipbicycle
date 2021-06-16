@@ -56,13 +56,25 @@ Halaman dashboard jika login sebagai PJ
 Halaman tambah transaksi
 ![tambah transaksi](https://user-images.githubusercontent.com/85139125/122196031-128a5e00-cec1-11eb-80bb-469b9e183771.jpeg)
 
+Halaman cetak bukti transaksi
+![halaman cetak bukti](https://user-images.githubusercontent.com/85139125/122197388-53cf3d80-cec2-11eb-84d2-51f2b028b911.jpeg)
+
 Halaman data sepeda jika login sebagai PJ
 ![data sepeda](https://user-images.githubusercontent.com/85139125/122195222-5cbf0f80-cec0-11eb-9b7a-2c59679d0332.jpeg)
+
+Halaman pengembalian sepeda
+![pengembalian](https://user-images.githubusercontent.com/85139125/122197481-6d708500-cec2-11eb-90d6-c56dd250a4ae.jpeg)
+
+Halaman data sepeda
 
 Halaman tambah data sepeda
 ![tambah sepeda](https://user-images.githubusercontent.com/85139125/122195474-98f27000-cec0-11eb-9432-9f924d5f81fa.jpeg)
 
 Halaman data mahasiswa jika login sebagai PJ
+
+Halaman tambah data mahasiswa
+
+
 
 
 
