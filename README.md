@@ -1,7 +1,7 @@
 # IPBicycle 
 ![IPB CYCLE LOGO](https://user-images.githubusercontent.com/85139125/122133039-2fde0e80-ce66-11eb-85b4-5e07b7823a58.png)
 IPBicycle merupakan website yang digunakan untuk manajemen data peminjaman sepeda di IPB
-# Kelompok 5 (P2)
+# Kelompok 5 (P3)
 1. Mely Amelia (G14190017)
 2. Naufal Nashif Imanuddin (G14190025)
 3. Vera Amelia (G14190036)
